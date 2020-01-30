@@ -1,6 +1,6 @@
+//PLACEMENT MANAGEMENT SYSTEM
 #include<stdio.h>
 
-//PLACEMENT MANAGEMENT STSTEM
 #include<conio.h>
 
 #include<string.h>
